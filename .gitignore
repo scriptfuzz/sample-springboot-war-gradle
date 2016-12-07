@@ -1,0 +1,13 @@
+.DS_STORE
+
+build/
+
+.claspath
+
+.settings
+
+.idea
+
+.gradle
+
+out/
